@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Storm Chaser Wiki</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0f172a;
+    color: #e2e8f0;
+}
+.container { display: flex; }
+
+.sidebar {
+    width: 260px;
+    background: #020617;
+    padding: 20px;
+    position: fixed;
+    height: 100%;
+    overflow-y: auto;
+}
+.sidebar a {
+    display: block;
+    color: #94a3b8;
+    text-decoration: none;
+    margin: 6px 0;
+}
+.sidebar a:hover { color: white; }
+
+.content {
+    margin-left: 280px;
+    padding: 30px;
+    max-width: 1100px;
+}
+
+h1 { border-bottom: 2px solid #38bdf8; }
+h2 { color: #38bdf8; margin-top: 40px; }
+
+.infobox {
+    float: right;
+    width: 260px;
+    background: #1e293b;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid #334155;
+    padding: 10px;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 20px;
+    text-align: center;
+    background: #020617;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<div class="sidebar">
+<h2>Storm Wiki</h2>
+<a href="#pengertian">Pengertian</a>
+<a href="#sejarah">Sejarah</a>
+<a href="#timeline">Timeline</a>
+<a href="#proses">Proses</a>
+<a href="#jenis">Jenis</a>
+<a href="#teknologi">Teknologi</a>
+<a href="#alat">Peralatan</a>
+<a href="#strategi">Strategi</a>
+<a href="#bahaya">Bahaya</a>
+<a href="#lokasi">Lokasi</a>
+<a href="#tabel">Data</a>
+<a href="#faq">FAQ</a>
+<a href="#kesimpulan">Kesimpulan</a>
+</div>
+
+<div class="content">
+
+<h1>Storm Chaser</h1>
+
+<div class="infobox">
+<b>Status:</b> Aktif<br>
+<b>Bidang:</b> Meteorologi<br>
+<b>Risiko:</b> Sangat Tinggi<br>
+<b>Tujuan:</b> Observasi badai<br>
+</div>
+
+<h2 id="pengertian">Pengertian</h2>
+<p>Storm chaser adalah orang yang mengejar badai untuk tujuan ilmiah, dokumentasi, dan eksplorasi...</p>
+
+<p>Aktivitas ini membutuhkan pemahaman mendalam tentang atmosfer, termasuk tekanan udara, kelembapan, dan dinamika angin...</p>
+
+<p>Selain itu, storm chaser sering bekerja dalam tim untuk meningkatkan keamanan dan efektivitas pengamatan...</p>
+
+<h2 id="sejarah">Sejarah</h2>
+<p>Pada awal abad ke-20, penelitian badai masih sangat terbatas...</p>
+<p>Pada tahun 1950-an, radar mulai digunakan...</p>
+<p>Pada era modern, storm chasing berkembang pesat karena internet...</p>
+
+<h2 id="timeline">Timeline</h2>
+<ul>
+<li>1900: Observasi manual badai</li>
+<li>1950: Radar ditemukan</li>
+<li>1990: Komputer cuaca berkembang</li>
+<li>2000: Internet mempercepat data</li>
+<li>2020+: AI digunakan dalam prediksi</li>
+</ul>
+
+<h2 id="proses">Proses Terbentuknya Badai</h2>
+<p>Badai terjadi karena interaksi udara hangat dan dingin...</p>
+<p>Supercell adalah bentuk badai paling berbahaya...</p>
+<p>Rotasi udara dapat menghasilkan tornado...</p>
+
+<h2 id="jenis">Jenis Badai</h2>
+<ul>
+<li>Tornado</li>
+<li>Supercell</li>
+<li>Derecho</li>
+<li>Hurricane</li>
+<li>Thunderstorm</li>
+<li>Microburst</li>
+<li>Mesocyclone</li>
+</ul>
+
+<h2 id="teknologi">Teknologi</h2>
+<p>Storm chaser menggunakan radar Doppler...</p>
+<p>GPS membantu navigasi real-time...</p>
+<p>Satelit memberikan gambaran global...</p>
+
+<h2 id="alat">Peralatan</h2>
+<ul>
+<li>Kamera 4K</li>
+<li>Drone</li>
+<li>Laptop cuaca</li>
+<li>Radio komunikasi</li>
+<li>Barometer</li>
+<li>Anemometer</li>
+</ul>
+
+<h2 id="strategi">Strategi</h2>
+<p>Strategi penting termasuk membaca arah angin...</p>
+<p>Menjaga jarak aman dari inti badai...</p>
+<p>Menghindari jalur tornado...</p>
+
+<h2 id="bahaya">Bahaya</h2>
+<p>Risiko termasuk tornado, petir, hujan es besar...</p>
+<p>Kecelakaan kendaraan juga menjadi ancaman serius...</p>
+
+<h2 id="lokasi">Lokasi Populer</h2>
+<p>Tornado Alley adalah lokasi utama...</p>
+
+<h2 id="tabel">Data Badai</h2>
+<table>
+<tr><th>Tahun</th><th>Lokasi</th><th>Kekuatan</th></tr>
+<tr><td>2011</td><td>USA</td><td>EF5</td></tr>
+<tr><td>2013</td><td>USA</td><td>EF4</td></tr>
+<tr><td>2020</td><td>USA</td><td>EF3</td></tr>
+</table>
+
+<h2 id="faq">FAQ</h2>
+
+<p><b>Apa itu storm chaser?</b><br>Orang yang mengejar badai.</p>
+<p><b>Apakah berbahaya?</b><br>Ya, sangat berbahaya.</p>
+<p><b>Kenapa dilakukan?</b><br>Untuk ilmu dan dokumentasi.</p>
+<p><b>Butuh skill?</b><br>Sangat tinggi.</p>
+
+<p><b>Apakah bisa dilakukan pemula?</b><br>Bisa, tapi harus belajar dulu.</p>
+<p><b>Apakah mahal?</b><br>Cukup mahal karena alat.</p>
+
+<h2 id="kesimpulan">Kesimpulan</h2>
+<p>Storm chasing adalah aktivitas kompleks...</p>
+
+<footer>
+<p>© Storm Wiki</p>
+</footer>
+
+</div>
+</div>
+</body>
+</html>
